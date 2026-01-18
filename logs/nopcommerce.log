@@ -1,0 +1,47 @@
+2026-01-09 20:43:21:INFO:====== WebDriver manager ======
+2026-01-09 20:43:25:INFO:Get LATEST chromedriver version for google-chrome
+2026-01-09 20:43:25:INFO:Get LATEST chromedriver version for google-chrome
+2026-01-09 20:43:25:INFO:Driver [C:\Users\malia\.wdm\drivers\chromedriver\win64\143.0.7499.192\chromedriver-win32/chromedriver.exe] found in cache
+2026-01-09 20:43:28:INFO:**************test_01_admin_login****************
+2026-01-09 20:43:41:INFO:**************title not match****************
+2026-01-09 20:44:22:INFO:====== WebDriver manager ======
+2026-01-09 20:44:25:INFO:Get LATEST chromedriver version for google-chrome
+2026-01-09 20:44:25:INFO:Get LATEST chromedriver version for google-chrome
+2026-01-09 20:44:26:INFO:Driver [C:\Users\malia\.wdm\drivers\chromedriver\win64\143.0.7499.192\chromedriver-win32/chromedriver.exe] found in cache
+2026-01-09 20:44:27:INFO:**************test_01_admin_login****************
+2026-01-09 20:44:41:INFO:**************title match****************
+2026-01-09 20:46:35:INFO:====== WebDriver manager ======
+2026-01-09 20:46:38:INFO:Get LATEST chromedriver version for google-chrome
+2026-01-09 20:46:39:INFO:Get LATEST chromedriver version for google-chrome
+2026-01-09 20:46:39:INFO:Driver [C:\Users\malia\.wdm\drivers\chromedriver\win64\143.0.7499.192\chromedriver-win32/chromedriver.exe] found in cache
+2026-01-09 20:46:41:INFO:**************test_01_admin_login****************
+2026-01-09 20:46:52:INFO:**************title match****************
+2026-01-09 20:46:55:INFO:====== WebDriver manager ======
+2026-01-09 20:46:59:INFO:Get LATEST chromedriver version for google-chrome
+2026-01-09 20:46:59:INFO:Get LATEST chromedriver version for google-chrome
+2026-01-09 20:47:00:INFO:Driver [C:\Users\malia\.wdm\drivers\chromedriver\win64\143.0.7499.192\chromedriver-win32/chromedriver.exe] found in cache
+2026-01-09 20:47:01:INFO:**************test_02_valid_admin_login****************
+2026-01-09 20:47:03:INFO:**************login successfull****************
+2026-01-09 20:47:06:INFO:====== WebDriver manager ======
+2026-01-09 20:47:09:INFO:Get LATEST chromedriver version for google-chrome
+2026-01-09 20:47:10:INFO:Get LATEST chromedriver version for google-chrome
+2026-01-09 20:47:10:INFO:Driver [C:\Users\malia\.wdm\drivers\chromedriver\win64\143.0.7499.192\chromedriver-win32/chromedriver.exe] found in cache
+2026-01-09 20:47:12:INFO:**************test_03_invalid_admin_login****************
+2026-01-09 21:01:45:INFO:====== WebDriver manager ======
+2026-01-09 21:01:48:INFO:Get LATEST chromedriver version for google-chrome
+2026-01-09 21:01:48:INFO:Get LATEST chromedriver version for google-chrome
+2026-01-09 21:01:49:INFO:Driver [C:\Users\malia\.wdm\drivers\chromedriver\win64\143.0.7499.192\chromedriver-win32/chromedriver.exe] found in cache
+2026-01-09 21:01:50:INFO:**************test_01_admin_login****************
+2026-01-09 21:02:01:INFO:**************title match****************
+2026-01-09 21:02:04:INFO:====== WebDriver manager ======
+2026-01-09 21:02:07:INFO:Get LATEST chromedriver version for google-chrome
+2026-01-09 21:02:08:INFO:Get LATEST chromedriver version for google-chrome
+2026-01-09 21:02:08:INFO:Driver [C:\Users\malia\.wdm\drivers\chromedriver\win64\143.0.7499.192\chromedriver-win32/chromedriver.exe] found in cache
+2026-01-09 21:02:09:INFO:**************test_02_valid_admin_login****************
+2026-01-09 21:02:14:INFO:**************login successfull****************
+2026-01-09 21:02:16:INFO:====== WebDriver manager ======
+2026-01-09 21:02:19:INFO:Get LATEST chromedriver version for google-chrome
+2026-01-09 21:02:20:INFO:Get LATEST chromedriver version for google-chrome
+2026-01-09 21:02:20:INFO:Driver [C:\Users\malia\.wdm\drivers\chromedriver\win64\143.0.7499.192\chromedriver-win32/chromedriver.exe] found in cache
+2026-01-09 21:02:22:INFO:**************test_03_invalid_admin_login****************
+2026-01-09 21:02:26:INFO:**************invalid login****************
